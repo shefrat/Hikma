@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Hikma
+Name[ar]=بريمج حكمة
+Comment=hikma is a desktop tool for showing hikmas
+Comment[ar]=حكمة برنامج يقوم بعرض الحكم على سطح المكتب
+Exec=hikma-pro
+Terminal=false
+Type=Application
+Icon=/usr/share/icons/hikma.png
+X-KDE-autostart-after=panel
+StartupNotify=true
+Categories=X-Islamic-Software;Utility;
+
